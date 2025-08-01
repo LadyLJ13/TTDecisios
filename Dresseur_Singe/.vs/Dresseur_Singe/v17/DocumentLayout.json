@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|c:\\users\\hp\\source\\repos\\dresseur_singe\\dresseur_singe\\spectacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|solutionrelative:dresseur_singe\\spectacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|c:\\users\\hp\\source\\repos\\dresseur_singe\\dresseur_singe\\dresseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|solutionrelative:dresseur_singe\\dresseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|c:\\users\\hp\\source\\repos\\dresseur_singe\\dresseur_singe\\spectateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|solutionrelative:dresseur_singe\\spectateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|c:\\users\\hp\\source\\repos\\dresseur_singe\\dresseur_singe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|solutionrelative:dresseur_singe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|c:\\users\\hp\\source\\repos\\dresseur_singe\\dresseur_singe\\singe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|solutionrelative:dresseur_singe\\singe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|c:\\users\\hp\\source\\repos\\dresseur_singe\\dresseur_singe\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CDB09A-6770-48CB-8A79-B530005355EF}|Dresseur_Singe\\Dresseur_Singe.csproj|solutionrelative:dresseur_singe\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Singe.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Singe.cs",
+              "RelativeDocumentMoniker": "Dresseur_Singe\\Singe.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Singe.cs",
+              "RelativeToolTip": "Dresseur_Singe\\Singe.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:25:56.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Tour.cs",
+              "RelativeDocumentMoniker": "Dresseur_Singe\\Tour.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Tour.cs",
+              "RelativeToolTip": "Dresseur_Singe\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:36:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spectacle.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Spectacle.cs",
+              "RelativeDocumentMoniker": "Dresseur_Singe\\Spectacle.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Spectacle.cs",
+              "RelativeToolTip": "Dresseur_Singe\\Spectacle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:26:56.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dresseur.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Dresseur.cs",
+              "RelativeDocumentMoniker": "Dresseur_Singe\\Dresseur.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Dresseur.cs",
+              "RelativeToolTip": "Dresseur_Singe\\Dresseur.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:25:39.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spectateur.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Spectateur.cs",
+              "RelativeDocumentMoniker": "Dresseur_Singe\\Spectateur.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Spectateur.cs",
+              "RelativeToolTip": "Dresseur_Singe\\Spectateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:25:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Program.cs",
+              "RelativeDocumentMoniker": "Dresseur_Singe\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Dresseur_Singe\\Dresseur_Singe\\Program.cs",
+              "RelativeToolTip": "Dresseur_Singe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:24:28.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

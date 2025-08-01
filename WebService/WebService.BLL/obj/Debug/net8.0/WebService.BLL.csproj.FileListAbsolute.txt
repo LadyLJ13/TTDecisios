@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\WebService\WebService.BLL\bin\Debug\net8.0\WebService.BLL.deps.json
+C:\Users\Hp\source\repos\WebService\WebService.BLL\bin\Debug\net8.0\WebService.BLL.dll
+C:\Users\Hp\source\repos\WebService\WebService.BLL\bin\Debug\net8.0\WebService.BLL.pdb
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebService.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebService.BLL.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebService.BLL.AssemblyInfo.cs
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebService.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebService.BLL.dll
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\refint\WebService.BLL.dll
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebService.BLL.pdb
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\ref\WebService.BLL.dll
+C:\Users\Hp\source\repos\WebService\WebService.BLL\bin\Debug\net8.0\WebService.Domain.dll
+C:\Users\Hp\source\repos\WebService\WebService.BLL\bin\Debug\net8.0\WebService.Domain.pdb
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebService.BLL.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\WebService\WebService.BLL\obj\Debug\net8.0\WebServi.A3289D05.Up2Date

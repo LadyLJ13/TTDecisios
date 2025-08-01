@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{05C380A8-4515-409B-8EA2-D0D6D0B4E56E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[0] API", "[0] API", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[1] BLL", "[1] BLL", "{1B2EA152-1966-4640-8FB6-D81F3EA862F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[2] DAL", "[2] DAL", "{B1A7A925-2D40-45A3-A785-39340A4F00D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[3] Domain", "[3] Domain", "{D3F1AA97-1CD1-4AA6-A51D-37F651A92E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService.BLL", "WebService.BLL\WebService.BLL.csproj", "{C96D850A-CAF9-41FD-B290-615FE913C9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService.DAL", "WebService.DAL\WebService.DAL.csproj", "{AB190F7D-DEEA-4C89-A7E5-BC4700532ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService.Domain", "WebService.Domain\WebService.Domain.csproj", "{C001B13C-DE90-4D4D-A88B-0F88CF4BEB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C380A8-4515-409B-8EA2-D0D6D0B4E56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C380A8-4515-409B-8EA2-D0D6D0B4E56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C380A8-4515-409B-8EA2-D0D6D0B4E56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C380A8-4515-409B-8EA2-D0D6D0B4E56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96D850A-CAF9-41FD-B290-615FE913C9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96D850A-CAF9-41FD-B290-615FE913C9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96D850A-CAF9-41FD-B290-615FE913C9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96D850A-CAF9-41FD-B290-615FE913C9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB190F7D-DEEA-4C89-A7E5-BC4700532ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB190F7D-DEEA-4C89-A7E5-BC4700532ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB190F7D-DEEA-4C89-A7E5-BC4700532ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB190F7D-DEEA-4C89-A7E5-BC4700532ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C001B13C-DE90-4D4D-A88B-0F88CF4BEB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C001B13C-DE90-4D4D-A88B-0F88CF4BEB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C001B13C-DE90-4D4D-A88B-0F88CF4BEB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C001B13C-DE90-4D4D-A88B-0F88CF4BEB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{05C380A8-4515-409B-8EA2-D0D6D0B4E56E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C96D850A-CAF9-41FD-B290-615FE913C9E9} = {1B2EA152-1966-4640-8FB6-D81F3EA862F9}
+		{AB190F7D-DEEA-4C89-A7E5-BC4700532ACF} = {B1A7A925-2D40-45A3-A785-39340A4F00D5}
+		{C001B13C-DE90-4D4D-A88B-0F88CF4BEB44} = {D3F1AA97-1CD1-4AA6-A51D-37F651A92E42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578EABA2-A4DC-4D18-B4E5-4CECEBD8B2CD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\WebService\WebService.Domain\bin\Debug\net8.0\WebService.Domain.deps.json
+C:\Users\Hp\source\repos\WebService\WebService.Domain\bin\Debug\net8.0\WebService.Domain.dll
+C:\Users\Hp\source\repos\WebService\WebService.Domain\bin\Debug\net8.0\WebService.Domain.pdb
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\WebService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\WebService.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\WebService.Domain.AssemblyInfo.cs
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\WebService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\WebService.Domain.dll
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\refint\WebService.Domain.dll
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\WebService.Domain.pdb
+C:\Users\Hp\source\repos\WebService\WebService.Domain\obj\Debug\net8.0\ref\WebService.Domain.dll

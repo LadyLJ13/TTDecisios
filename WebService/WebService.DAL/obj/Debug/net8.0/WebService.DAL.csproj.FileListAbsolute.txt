@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\WebService\WebService.DAL\bin\Debug\net8.0\WebService.DAL.deps.json
+C:\Users\Hp\source\repos\WebService\WebService.DAL\bin\Debug\net8.0\WebService.DAL.runtimeconfig.json
+C:\Users\Hp\source\repos\WebService\WebService.DAL\bin\Debug\net8.0\WebService.DAL.dll
+C:\Users\Hp\source\repos\WebService\WebService.DAL\bin\Debug\net8.0\WebService.DAL.pdb
+C:\Users\Hp\source\repos\WebService\WebService.DAL\bin\Debug\net8.0\WebService.Domain.dll
+C:\Users\Hp\source\repos\WebService\WebService.DAL\bin\Debug\net8.0\WebService.Domain.pdb
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.AssemblyInfo.cs
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebServi.DF72C668.Up2Date
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.dll
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\refint\WebService.DAL.dll
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.pdb
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\WebService.DAL.genruntimeconfig.cache
+C:\Users\Hp\source\repos\WebService\WebService.DAL\obj\Debug\net8.0\ref\WebService.DAL.dll

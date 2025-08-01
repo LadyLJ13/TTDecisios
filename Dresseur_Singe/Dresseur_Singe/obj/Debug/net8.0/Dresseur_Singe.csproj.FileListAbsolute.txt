@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\bin\Debug\net8.0\Dresseur_Singe.exe
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\bin\Debug\net8.0\Dresseur_Singe.deps.json
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\bin\Debug\net8.0\Dresseur_Singe.runtimeconfig.json
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\bin\Debug\net8.0\Dresseur_Singe.dll
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\bin\Debug\net8.0\Dresseur_Singe.pdb
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\Dresseur_Singe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\Dresseur_Singe.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\Dresseur_Singe.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\Dresseur_Singe.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\Dresseur_Singe.dll
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\refint\Dresseur_Singe.dll
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\Dresseur_Singe.pdb
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\Dresseur_Singe.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Dresseur_Singe\Dresseur_Singe\obj\Debug\net8.0\ref\Dresseur_Singe.dll
